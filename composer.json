@@ -29,9 +29,6 @@
     "symfony/dependency-injection": "*",
     "symfony/form": "*",
     "symfony/framework-bundle": "*",
-    "symfony/http-foundation": "*",
-    "symfony/http-kernel": "*",
-    "symfony/translation": "*",
     "symfony/validator": "*"
   },
   "autoload": {
