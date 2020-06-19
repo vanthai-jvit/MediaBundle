@@ -25,14 +25,14 @@
     "doctrine/doctrine-bundle": "^1.8|^2.0",
     "gregwar/image-bundle": "^2.2|^3.0",
     "artgris/filemanager-bundle": "^1.5 || dev-master",
-    "symfony/config": "^4.1",
-    "symfony/dependency-injection": "^4.1",
-    "symfony/form": "^4.1",
-    "symfony/framework-bundle": "^4.1",
-    "symfony/http-foundation": "^4.1",
-    "symfony/http-kernel": "^4.1",
-    "symfony/translation": "^4.1",
-    "symfony/validator": "^4.1"
+    "symfony/config": "*",
+    "symfony/dependency-injection": "*",
+    "symfony/form": "*",
+    "symfony/framework-bundle": "*",
+    "symfony/http-foundation": "*",
+    "symfony/http-kernel": "*",
+    "symfony/translation": "*",
+    "symfony/validator": "*"
   },
   "autoload": {
     "psr-4": {
